@@ -1,4 +1,4 @@
-module convert_time
+module github.com/piliming/convert_time
 
 go 1.21
 

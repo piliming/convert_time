@@ -2,11 +2,12 @@ package main
 
 import (
 	"context"
-	"convert_time/clip"
 	"fmt"
 	"log"
 	"strconv"
 	"time"
+
+	"github.com/piliming/convert_time/clip"
 
 	"github.com/araddon/dateparse"
 	"github.com/gen2brain/beeep"
